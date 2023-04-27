@@ -1,7 +1,7 @@
 # Linds
 
 <p align="center">
-  <img width="144" src="https://github.com/qq1510837410/Linds/blob/main/img/linds.jpg">
+  <img width="144" src="https://raw.githubusercontent.com/lindsec/Linds/main/img/linds.jpg">
 </p>
 
 ```此源码仅供代码学习，不要在生产环境部署。```
@@ -84,7 +84,7 @@ Linds集多种防火墙、重点日志分析、机器深度学习、AI异常检�
 2 、用AI技术分析危险进程，异地IP/异常流量/危险行为等将报警。<br>
 3 、黑白名单模式阻断进程，防止服务器被未知漏洞植入木马后门通信。<br>
 <p align="center">
-  <img src="https://github.com/qq1510837410/Linds/blob/main/img/2-2.jpg">
+  <img src="https://raw.githubusercontent.com/lindsec/Linds/main/img/2-2.jpg">
 </p>
 
 <br>
@@ -96,10 +96,10 @@ Linds集多种防火墙、重点日志分析、机器深度学习、AI异常检�
 2 、全面防御对SSH服务的扫描探测、密码破解等。<br>
 3 、详细的日志和威胁统计分析。<br>
 <p align="center">
-  <img src="https://github.com/qq1510837410/Linds/blob/main/img/2-3-1.jpg">
+  <img src="https://raw.githubusercontent.com/lindsec/Linds/main/img/2-3-1.jpg">
 </p>
 <p align="center">
-  <img src="https://github.com/qq1510837410/Linds/blob/main/img/2-3-2.jpg">
+  <img src="https://raw.githubusercontent.com/lindsec/Linds/main/img/2-3-2.jpg">
 </p>
 
 <br>
@@ -111,7 +111,7 @@ Linds集多种防火墙、重点日志分析、机器深度学习、AI异常检�
 2、全面记录WEB每个URL的访问次数、攻击日志、流量统计等。<br>
 3、用算法重点对抗webshell和未知漏洞，及时发现WEB异常行为导致的数据泄露。<br>
 <p align="center">
-  <img src="https://github.com/qq1510837410/Linds/blob/main/img/2-4.jpg">
+  <img src="https://raw.githubusercontent.com/lindsec/Linds/main/img/2-4.jpg">
 </p>
 
 <br>
