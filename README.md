@@ -4,7 +4,6 @@
   <img width="144" src="https://raw.githubusercontent.com/lindsec/Linds/main/img/linds.jpg">
 </p>
 
-```此源码仅供代码学习，不要在生产环境部署。```
 
 #### 介绍
 **Linds = Linux Data Security(Linux数据安全)，Linds是一款开源的专注Linux数据安全方向的专业系统软件。**
